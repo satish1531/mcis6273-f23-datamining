@@ -1,0 +1,17 @@
+Question 1:  List 3 things that you learned from this podcast?
+You do not require a lot of math in data science, unless you want to build the next machine learning model.
+There is a lot of frameworks and packages to support data science.
+The difference between developers and datascientists. Developers majorly dwell on creating robust software systems, 
+Data scientists do not value the code, as compared to developers where code is the main end product.
+
+Question 2: What is your reaction to the podcast? Pick at least one point brought up in the interview that you agree with and list your reason why.
+The podcast has been educative, I got get more knolwedge to understand python as a data scientis and a developer.
+ I like Python and R because it does not require a deep learning curve. It is simple and easier to understand. I agree with this because I personally found out that is is easier to use and implement python codes compared to the other languages because you do not need to define classes and functions.
+
+reason why.
+Question 3: After listening to the podcast, do you think you are more informed about the importance of Python to Data Science?
+Yes I am very aware of how python has helped a lot of data scientists especially from 2012 where python gathered a lot of users.
+How? (Be brief – one sentence will suffice.)
+Due to the vast packages python offers, and the way it handles missing values. 
+Question 4. List one surprising fact you learned from listening to this podcast.
+For data scientists, the dataset should be taken in a lot of consideration, you may be good with the coding and visualisation but, garbaged or disorganised data always lead to incorrect results. 
